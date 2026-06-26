@@ -1,4 +1,5 @@
 require('dotenv').config();
+const fetch = require('node-fetch');
 const { Connection, PublicKey } = require('@solana/web3.js');
 const http = require('http');
 
