@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@solana/web3.js": "1.73.4",
+    "rpc-websockets": "7.5.1",
     "bs58": "4.0.1",
     "dotenv": "^16.4.5",
     "node-fetch": "2.7.0"
