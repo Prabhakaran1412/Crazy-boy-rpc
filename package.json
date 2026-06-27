@@ -1,0 +1,19 @@
+{
+  "name": "crazy-boy-rpc-v4",
+  "version": "4.0.0",
+  "description": "Solana Pump.fun Sniper Bot v4.0",
+  "main": "sniper_v4.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node sniper_v4.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3",
+    "bs58": "4.0.1",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
