@@ -1,1 +1,1 @@
-web: node bot.js
+worker: node sniper_v4.js
